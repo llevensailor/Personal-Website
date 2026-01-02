@@ -3,17 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Final Protfolio"
+  title: "Leah Levensailor"
   navbar:
     search: true
     left:
     - text: "Home"
       href: index.qmd
-    - text: "Project 1"
-      href: Project 1/scorecard_analysis.qmd
-    - text: "Project 2"
-      href: Project 2/WCA_analysis.qmd 
-    - text: "Project 3"
+    - text: "Air Pollution"
       href: Project 3/mapping.qmd
     - text: "Leah Levensailor"
       href: about.qmd

@@ -1,12 +1,8 @@
 ---
-title: "SDS 192 Project 3"
-subtitle: "Maps"
+title: "Air Pollution"
+subtitle: "Statistical Case Study"
 author: 
-- name: Danielle Church
-  affiliation: Smith College
 - name: Leah Levensailor
-  affiliation: Smith College
-- name: Zaixiao Rao
   affiliation: Smith College
 date: "`r format(Sys.Date(), '%B %e, %Y')`"
 editor: 
