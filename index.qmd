@@ -1,0 +1,7 @@
+---
+title: "Portfolio"
+subtitle: "Final Project"
+author: "Leah Levensailor"
+---
+
+This is my final portfolio for SDS 192. In this website you can find an about me page and the three larger projects I have completed during this semester. If you have any questions please don't hesitate to contact me, my contact information can be found in the about me section!
