@@ -86,8 +86,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Portfolio",
+    "title": "Leah Levensailor",
     "section": "",
-    "text": "This is my final portfolio for SDS 192. In this website you can find an about me page and the three larger projects I have completed during this semester. If you have any questions please don’t hesitate to contact me, my contact information can be found in the about me section!"
+    "text": "Leah Levensailor is studying at Smith College planning to double major in Computer Science and Statisical Data Science. She can usually be found playing rugby with her friends or doing homework in Alumnae Gym. She is a Massachusetts native and is ecstatic to continue her education at Smith College."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Leah Levensailor",
+    "section": "Education",
+    "text": "Education\n\nBA in Computer Science and Statistical Data Science (~2028)\nSmith College\nNorthampton, Massachusetts"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Leah Levensailor",
+    "section": "Experience",
+    "text": "Experience\n\nSDS 192: Intro to Data Science\nSDS 100: Lab Computing with Data\nCSC 120: Object Oriented Programming\nCSC 210: Data Structures\nSDS 290:\nSDS 291:\nCSC 231:"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Leah Levensailor",
+    "section": "Contact",
+    "text": "Contact\n\nllevensailor@smith.edu\nleahlevi1018@gmail.com"
   }
 ]
